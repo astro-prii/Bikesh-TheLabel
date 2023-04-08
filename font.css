@@ -1,0 +1,10 @@
+h1 {
+    color:blue;
+}
+/* define font-face */
+@font-face {
+    font-family: 'Chopin';
+    src: url(https://github.com/astro-prii/Chopin-Script.git) format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
